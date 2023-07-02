@@ -1,66 +1,66 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				40,
-				-55
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				27,
+				-35
+			],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "coldsteel left"
+			"fps": 24,
+			"name": "left ",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-214,
-				203
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				-256,
+				-8
+			],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "coldsteel right"
+			"fps": 24,
+			"name": "right ",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-108,
-				109
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				-58,
+				-1
+			],
 			"anim": "singUP",
-			"indices": [],
-			"name": "coldsteel up"
-		},
-		{
-			"offsets": [
-				220,
-				-268
-			],
-			"loop": false,
 			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "coldsteel down"
+			"name": "up ",
+			"indices": []
 		},
 		{
-			"loop": true,
+			"loop": false,
 			"offsets": [
-				-170,
+				-100,
+				33
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down ",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-171,
 				0
 			],
-			"anim": "idle",
+			"loop": true,
 			"fps": 24,
-			"name": "coldsteel idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "idle "
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/coldsteel_assets",
 	"position": [
-		-150,
-		-60
+		-310,
+		-280
 	],
 	"healthicon": "coldsteel",
 	"flip_x": false,
@@ -70,8 +70,8 @@
 		164
 	],
 	"camera_position": [
-		-50,
-		250
+		60,
+		180
 	],
 	"sing_duration": 4,
 	"scale": 1

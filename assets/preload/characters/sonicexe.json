@@ -2,76 +2,76 @@
 	"animations": [
 		{
 			"offsets": [
-				0,
-				-40
+				-34,
+				-82
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN-alt",
 			"indices": [],
-			"name": "SONIClaugh"
+			"name": "Exe_Ris000"
 		},
 		{
 			"offsets": [
-				34,
-				31
+				-18,
+				-81
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "SONICmoveUP"
+			"name": "Exe_Right000"
 		},
 		{
 			"offsets": [
-				-90,
-				-16
+				-81,
+				-75
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "SONICmoveRIGHT"
+			"name": "Exe_Up000"
 		},
 		{
 			"offsets": [
 				-60,
-				-80
+				-82
 			],
 			"loop": true,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "SONICmoveIDLE"
+			"name": "UyQuieto000"
 		},
 		{
 			"offsets": [
-				20,
-				-160
+				-25,
+				-83
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "SONICmoveDOWN"
+			"name": "Exe_Down000"
 		},
 		{
 			"offsets": [
-				110,
-				-63
+				41,
+				-82
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "SONICmoveLEFT"
+			"name": "Exe_Left000"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/sonicexe",
 	"position": [
-		0,
-		0
+		-110,
+		-140
 	],
 	"healthicon": "sonicexe",
 	"flip_x": false,
@@ -82,8 +82,8 @@
 	],
 	"camera_position": [
 		-10,
-		110
+		-40
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 1.4
 }

@@ -3,68 +3,68 @@
 		{
 			"loop": false,
 			"offsets": [
-				-57,
-				-464
+				37,
+				-102
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "HogDown",
+			"name": "down ",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-7,
-				-420
+				81,
+				-134
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "HogLeft",
+			"name": "left ",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-87,
-				-319
+				37,
+				-129
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "HogUp",
+			"name": "up ",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-99,
-				-420
+				-79,
+				-103
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "HogRight",
+			"name": "right ",
 			"indices": []
 		},
 		{
 			"offsets": [
-				33,
-				-111
+				-41,
+				-81
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "getfuckedlol",
-			"loop": false,
-			"name": "Getfucked"
+			"indices": [],
+			"name": "dash "
 		},
 		{
 			"offsets": [
-				-130,
-				-410
+				38,
+				-100
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "HogIdle"
+			"indices": [],
+			"name": "idle "
 		}
 	],
 	"no_antialiasing": false,

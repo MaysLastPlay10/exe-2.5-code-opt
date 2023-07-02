@@ -1,103 +1,103 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-25,
 				-8
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "singLEFT0",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "singLEFT0"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-2,
 				-83
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "singDOWN0",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "singDOWN0"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-27,
 				6
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "singRIGHT0",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "singRIGHT0"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-46,
 				87
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "singUP0",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "singUP0"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-21,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "singLEFTmiss"
+			"fps": 24,
+			"name": "singLEFTmiss",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				10,
 				-80
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "singDOWNmiss"
+			"fps": 24,
+			"name": "singDOWNmiss",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-17,
 				9
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "singRIGHTmiss"
+			"fps": 24,
+			"name": "singRIGHTmiss",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-50,
 				87
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUPmiss",
-			"indices": [],
-			"name": "singUPmiss"
+			"fps": 24,
+			"name": "singUPmiss",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
 		}
 	],
 	"no_antialiasing": false,
@@ -114,7 +114,7 @@
 		209
 	],
 	"camera_position": [
-		140,
+		250,
 		10
 	],
 	"sing_duration": 5,
