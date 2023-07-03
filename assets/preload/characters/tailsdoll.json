@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-13,
 				2
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "TailsDoll RIGHT instance"
+			"fps": 24,
+			"name": "TailsDoll RIGHT instance",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-53,
 				-159
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "TailsDoll DOWN instance"
+			"fps": 24,
+			"name": "TailsDoll DOWN instance",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				71,
-				59
+				75
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "TailsDoll UP instance"
+			"fps": 24,
+			"name": "TailsDoll UP instance",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				121,
+				125,
 				-13
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "TailsDoll LEFT instance"
+			"fps": 24,
+			"name": "TailsDoll LEFT instance",
+			"indices": []
 		},
 		{
-			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"loop": true,
 			"fps": 24,
-			"name": "TailsDoll IDLE instance",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "TailsDoll IDLE instance"
 		}
 	],
 	"no_antialiasing": false,
