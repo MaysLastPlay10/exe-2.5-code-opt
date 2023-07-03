@@ -1,92 +1,92 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-25,
 				-8
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "singLEFT0"
+			"fps": 24,
+			"name": "singLEFT0",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-2,
 				-83
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "singDOWN0"
+			"fps": 24,
+			"name": "singDOWN0",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-27,
 				6
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "singRIGHT0"
+			"fps": 24,
+			"name": "singRIGHT0",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-46,
 				87
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "singUP0"
+			"fps": 24,
+			"name": "singUP0",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-21,
 				0
 			],
-			"anim": "singLEFTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "singLEFTmiss",
-			"indices": []
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "singLEFTmiss"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				10,
 				-80
 			],
-			"anim": "singDOWNmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "singDOWNmiss",
-			"indices": []
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "singDOWNmiss"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-17,
 				9
 			],
-			"anim": "singRIGHTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "singRIGHTmiss",
-			"indices": []
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "singRIGHTmiss"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-50,
 				87
 			],
-			"anim": "singUPmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "singUPmiss",
-			"indices": []
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "singUPmiss"
 		},
 		{
 			"offsets": [
@@ -114,7 +114,7 @@
 		209
 	],
 	"camera_position": [
-		140,
+		250,
 		10
 	],
 	"sing_duration": 5,
