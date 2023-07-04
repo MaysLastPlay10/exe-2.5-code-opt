@@ -1,54 +1,58 @@
 {
 	"animations": [
 		{
+			"offsets": [
+				318,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "scream",
+			"indices": [],
+			"name": "scream"
+		},
+		{
 			"loop": false,
 			"offsets": [
-				280,
-				27
+				16,
+				-21
 			],
-			"anim": "scream",
-			"fps": 24,
-			"name": "scream",
+			"anim": "singDOWN",
+			"fps": 40,
+			"name": "mad_down",
 			"indices": []
 		},
 		{
-			"offsets": [
-				1,
-				-8
-			],
-			"loop": false,
-			"fps": 40,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "mad_down"
-		},
-		{
+			"loop": true,
 			"offsets": [
 				-18,
 				67
 			],
-			"loop": true,
-			"fps": 26,
 			"anim": "idle",
-			"indices": [],
-			"name": "mad_idle"
+			"fps": 26,
+			"name": "mad_idle",
+			"indices": []
 		},
 		{
-			"offsets": [
-				143,
-				19
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				159,
+				9
+			],
 			"anim": "die",
-			"indices": [],
-			"name": "just_die"
+			"fps": 24,
+			"name": "just_die",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				33,
-				-21
+				32,
+				-41
 			],
+			"anim": "laugh",
+			"fps": 22,
+			"name": "laugh_Instance",
 			"indices": [
 				1,
 				2,
@@ -56,55 +60,51 @@
 				4,
 				5,
 				6
-			],
-			"fps": 22,
-			"anim": "laugh",
-			"loop": false,
-			"name": "laugh_Instance"
+			]
 		},
 		{
+			"loop": false,
 			"offsets": [
-				80,
-				8
+				76,
+				-5
 			],
-			"indices": [],
-			"fps": 33,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "mad_right"
+			"fps": 33,
+			"name": "mad_right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-14,
-				215
+				219
 			],
-			"indices": [],
-			"fps": 34,
 			"anim": "singUP",
-			"loop": false,
-			"name": "mad_up"
+			"fps": 34,
+			"name": "mad_up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				89,
-				34
+				102,
+				4
 			],
-			"indices": [],
-			"fps": 33,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "mad_left"
+			"fps": 33,
+			"name": "mad_left",
+			"indices": []
 		},
 		{
-			"offsets": [
-				3,
-				-24
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singDOWN-alt",
 			"loop": false,
-			"name": "laugh"
+			"offsets": [
+				-2,
+				-44
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "laugh",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -125,5 +125,5 @@
 		90
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 1.1
 }
