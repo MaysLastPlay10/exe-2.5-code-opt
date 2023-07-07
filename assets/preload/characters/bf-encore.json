@@ -80,7 +80,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				13,
+				-17,
 				11
 			],
 			"anim": "singRIGHTmiss",
@@ -96,7 +96,7 @@
 			"indices": [],
 			"fps": 11,
 			"anim": "idle",
-			"loop": true,
+			"loop": false,
 			"name": "Furro_Idle000"
 		}
 	],
