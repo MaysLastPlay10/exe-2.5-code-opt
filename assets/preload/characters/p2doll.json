@@ -3,7 +3,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				77,
+				75,
 				-50
 			],
 			"anim": "idle",
@@ -198,8 +198,8 @@
 	"no_antialiasing": false,
 	"image": "characters/tailsdoll_p2",
 	"position": [
-		730,
-		60
+		870,
+		200
 	],
 	"healthicon": "taildoll",
 	"flip_x": false,
@@ -209,9 +209,9 @@
 		0
 	],
 	"camera_position": [
-		20,
-		190
+		-380,
+		-170
 	],
 	"sing_duration": 4,
-	"scale": 1.05
+	"scale": 1.4
 }
