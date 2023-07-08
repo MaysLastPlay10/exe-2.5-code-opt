@@ -1,92 +1,92 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				41,
 				18
 			],
-			"loop": false,
-			"fps": 12,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Furro_Left000"
+			"fps": 12,
+			"name": "Furro_Left000",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-7,
 				-12
 			],
-			"loop": false,
-			"fps": 12,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Furro_Down000"
+			"fps": 12,
+			"name": "Furro_Down000",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-46,
 				4
 			],
-			"loop": false,
-			"fps": 12,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Furro_Right000"
+			"fps": 12,
+			"name": "Furro_Right000",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-70,
 				32
 			],
-			"loop": false,
-			"fps": 12,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Furro_Up000"
+			"fps": 12,
+			"name": "Furro_Up000",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				50,
 				16
 			],
-			"loop": false,
-			"fps": 12,
 			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "Furro_LeftMiss000"
+			"fps": 12,
+			"name": "Furro_LeftMiss000",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				13,
 				15
 			],
-			"anim": "singDOWNmiss",
+			"loop": false,
 			"fps": 12,
-			"name": "Furro_DownMiss000",
-			"indices": []
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Furro_DownMiss000"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-49,
 				43
 			],
-			"anim": "singUPmiss",
+			"loop": false,
 			"fps": 12,
-			"name": "Furro_UpMiss000",
-			"indices": []
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Furro_UpMiss000"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-17,
 				11
 			],
-			"anim": "singRIGHTmiss",
+			"loop": false,
 			"fps": 12,
-			"name": "Furro_RightMiss000",
-			"indices": []
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Furro_RightMiss000"
 		},
 		{
 			"offsets": [
@@ -94,7 +94,7 @@
 				13
 			],
 			"indices": [],
-			"fps": 11,
+			"fps": 13,
 			"anim": "idle",
 			"loop": false,
 			"name": "Furro_Idle000"
