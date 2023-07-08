@@ -1,14 +1,13 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-286,
-				-260
+				-290
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "Beast_IDLE",
+			"anim": "idle",
 			"indices": [
 				0,
 				1,
@@ -24,17 +23,17 @@
 				11,
 				12,
 				13
-			]
+			],
+			"name": "Beast_IDLE"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-397,
-				-478
+				-508
 			],
-			"anim": "laugh",
+			"loop": false,
 			"fps": 24,
-			"name": "Beast_LAUGH",
+			"anim": "laugh",
 			"indices": [
 				0,
 				1,
@@ -52,43 +51,144 @@
 				13,
 				14,
 				15
-			]
+			],
+			"name": "Beast_LAUGH"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-241,
-				-184
+				-214
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Beast_UP"
+		},
+		{
+			"offsets": [
+				-482,
+				-348
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Beast_RIGHT"
+		},
+		{
+			"offsets": [
+				-270,
+				-381
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Beast_DOWN"
+		},
+		{
+			"offsets": [
+				-109,
+				-379
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Beast_LEFT"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-244,
+				-216
+			],
+			"anim": "singUP-loop",
 			"fps": 24,
 			"name": "Beast_UP",
 			"indices": [
 				0,
 				1,
 				2,
-				3,
-				4,
-				5,
-				6,
-				7,
-				8,
-				9,
-				10,
-				11,
-				12,
-				13,
-				14,
 				15
 			]
 		},
 		{
-			"loop": false,
+			"loop": true,
 			"offsets": [
-				-482,
-				-318
+				-483,
+				-347
 			],
-			"anim": "singRIGHT",
+			"anim": "singRIGHT-loop",
 			"fps": 24,
 			"name": "Beast_RIGHT",
 			"indices": [
@@ -96,27 +196,16 @@
 				1,
 				2,
 				3,
-				4,
-				5,
-				6,
-				7,
-				8,
-				9,
-				10,
-				11,
-				12,
-				13,
-				14,
 				15
 			]
 		},
 		{
-			"loop": false,
+			"loop": true,
 			"offsets": [
-				-266,
-				-351
+				-269,
+				-380
 			],
-			"anim": "singDOWN",
+			"anim": "singDOWN-loop",
 			"fps": 24,
 			"name": "Beast_DOWN",
 			"indices": [
@@ -124,27 +213,16 @@
 				1,
 				2,
 				3,
-				4,
-				5,
-				6,
-				7,
-				8,
-				9,
-				10,
-				11,
-				12,
-				13,
-				14,
 				15
 			]
 		},
 		{
-			"loop": false,
+			"loop": true,
 			"offsets": [
-				-107,
-				-349
+				-110,
+				-378
 			],
-			"anim": "singLEFT",
+			"anim": "singLEFT-loop",
 			"fps": 24,
 			"name": "Beast_LEFT",
 			"indices": [
@@ -152,86 +230,8 @@
 				1,
 				2,
 				3,
-				4,
-				5,
-				6,
-				7,
-				8,
-				9,
-				10,
-				11,
-				12,
-				13,
-				14,
 				15
 			]
-		},
-		{
-			"offsets": [
-				-244,
-				-186
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "singUP-loop",
-			"indices": [
-				0,
-				1,
-				2,
-				15
-			],
-			"name": "Beast_UP"
-		},
-		{
-			"offsets": [
-				-483,
-				-317
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "singRIGHT-loop",
-			"indices": [
-				0,
-				1,
-				2,
-				3,
-				15
-			],
-			"name": "Beast_RIGHT"
-		},
-		{
-			"offsets": [
-				-267,
-				-350
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "singDOWN-loop",
-			"indices": [
-				0,
-				1,
-				2,
-				3,
-				15
-			],
-			"name": "Beast_DOWN"
-		},
-		{
-			"offsets": [
-				-108,
-				-350
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "singLEFT-loop",
-			"indices": [
-				0,
-				1,
-				2,
-				3,
-				15
-			],
-			"name": "Beast_LEFT"
 		}
 	],
 	"no_antialiasing": false,
@@ -245,7 +245,7 @@
 	"healthbar_colors": [
 		163,
 		75,
-		235
+		215
 	],
 	"camera_position": [
 		10,
