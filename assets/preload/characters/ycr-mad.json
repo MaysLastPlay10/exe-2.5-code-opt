@@ -2,57 +2,12 @@
 	"animations": [
 		{
 			"offsets": [
-				318,
-				7
+				18,
+				-35
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "scream",
-			"indices": [],
-			"name": "scream"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				16,
-				-21
-			],
-			"anim": "singDOWN",
-			"fps": 40,
-			"name": "mad_down",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [
-				-18,
-				67
-			],
-			"anim": "idle",
-			"fps": 26,
-			"name": "mad_idle",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				159,
-				9
-			],
-			"anim": "die",
-			"fps": 24,
-			"name": "just_die",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				32,
-				-41
-			],
 			"anim": "laugh",
-			"fps": 22,
-			"name": "laugh_Instance",
 			"indices": [
 				1,
 				2,
@@ -60,51 +15,96 @@
 				4,
 				5,
 				6
-			]
+			],
+			"name": "laugh_Instance"
 		},
 		{
 			"loop": false,
 			"offsets": [
-				76,
-				-5
+				357,
+				24
 			],
-			"anim": "singRIGHT",
-			"fps": 33,
-			"name": "mad_right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-14,
-				219
-			],
-			"anim": "singUP",
-			"fps": 34,
-			"name": "mad_up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				102,
-				4
-			],
-			"anim": "singLEFT",
-			"fps": 33,
-			"name": "mad_left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-2,
-				-44
-			],
-			"anim": "singDOWN-alt",
+			"anim": "scream",
 			"fps": 24,
-			"name": "laugh",
+			"name": "scream",
 			"indices": []
+		},
+		{
+			"offsets": [
+				23,
+				-37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "laugh"
+		},
+		{
+			"offsets": [
+				196,
+				33
+			],
+			"loop": false,
+			"fps": 38,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mad_left"
+		},
+		{
+			"offsets": [
+				-21,
+				238
+			],
+			"loop": false,
+			"fps": 42,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mad_up"
+		},
+		{
+			"offsets": [
+				26,
+				-21
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mad_down"
+		},
+		{
+			"offsets": [
+				-26,
+				0
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mad_right"
+		},
+		{
+			"offsets": [
+				-18,
+				67
+			],
+			"loop": true,
+			"fps": 26,
+			"anim": "idle",
+			"indices": [],
+			"name": "mad_idle"
+		},
+		{
+			"offsets": [
+				162,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "die",
+			"indices": [],
+			"name": "just_die"
 		}
 	],
 	"no_antialiasing": false,
@@ -125,5 +125,5 @@
 		90
 	],
 	"sing_duration": 6.1,
-	"scale": 1.1
+	"scale": 2
 }
