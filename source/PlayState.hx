@@ -1534,10 +1534,6 @@ class PlayState extends MusicBeatState
 				add(fgTree2);
 			case 'DDDDD':
 				gfGroup.visible = false;
-				if (ClientPrefs.shaders){
-				var vcr:VCRDistortionShader;
-				vcr = new VCRDistortionShader();
-				}
 				var daStatic:BGSprite = new BGSprite('daSTAT', 0, 0, 1.0, 1.0, ['staticFLASH'], true);
 				daStatic.cameras = [camHUD];
 				daStatic.setGraphicSize(FlxG.width, FlxG.height);
@@ -1545,8 +1541,9 @@ class PlayState extends MusicBeatState
 				daStatic.alpha = 0.05;
 				add(daStatic);
         if (ClientPrefs.shaders){
+				var vcr:VCRDistortionShader;
+				vcr = new VCRDistortionShader();
 				curShader = new ShaderFilter(vcr);
-
 				camGame.setFilters([curShader]);
 				camHUD.setFilters([curShader]);
 				camOther.setFilters([curShader]);
