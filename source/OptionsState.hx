@@ -470,9 +470,9 @@ class PreferencesSubstate extends MusicBeatSubstate
 		'GRAPHICS',
 		'Low Quality',
 		'Anti-Aliasing',
+        'Shaders',
 		'Persistent Cached Data',
 		'Gore',
-		'Shaders',
 		'Improved Hold Renderer',
 		#if !html5
 		'Framerate', //Apparently 120FPS isn't correctly supported on Browser? Probably it has some V-Sync shit enabled by default, idk
@@ -640,11 +640,8 @@ class PreferencesSubstate extends MusicBeatSubstate
 
 					case 'Low Quality':
 						ClientPrefs.lowQuality = !ClientPrefs.lowQuality;
-
-					case 'Shaders':
-						ClientPrefs.shaders = !ClientPrefs.shaders;
-
-					case 'Anti-Aliasing':
+                    
+                    case 'Anti-Aliasing':
 						ClientPrefs.globalAntialiasing = !ClientPrefs.globalAntialiasing;
 						showCharacter.antialiasing = ClientPrefs.globalAntialiasing;
 						for (item in grpOptions) {
@@ -658,6 +655,8 @@ class PreferencesSubstate extends MusicBeatSubstate
 						}
 						OptionsState.menuBG.antialiasing = ClientPrefs.globalAntialiasing;
 
+                        case 'Shaders':
+                            ClientPrefs.shaders = ! ClientPrefs.shaders;
 					case 'Note Splashes':
 						ClientPrefs.noteSplashes = !ClientPrefs.noteSplashes;
 
@@ -767,14 +766,14 @@ class PreferencesSubstate extends MusicBeatSubstate
 
 		var daText:String = '';
 		switch(options[curSelected]) {
+            case 'Shaders':
+                daText = "If unchecked, the shaders will be disabled";
 			case 'Framerate':
 				daText = "Pretty self explanatory, isn't it?\nDefault value is 60.";
 			case 'Note Delay':
 				daText = "Changes how late a note is spawned.\nUseful for preventing audio lag from wireless earphones.";
 			case 'FPS Counter':
 				daText = "If unchecked, hides FPS Counter.";
-       case 'Shaders':
-				daText = "If unchecked, disables shaders";
 			case 'Low Quality':
 				daText = "If checked, disables some background details,\ndecreases loading times and improves performance.";
 			case 'Persistent Cached Data':
@@ -855,10 +854,10 @@ class PreferencesSubstate extends MusicBeatSubstate
 			if(checkbox != null) {
 				var daValue:Bool = false;
 				switch(options[checkboxNumber[i]]) {
+                    case 'Shaders':
+                        daValue = ClientPrefs.shaders;
 					case 'FPS Counter':
 						daValue = ClientPrefs.showFPS;
-					case 'Shaders':
-						daValue = ClientPrefs.shaders;
 					case 'Low Quality':
 						daValue = ClientPrefs.lowQuality;
 					case 'Anti-Aliasing':
