@@ -472,6 +472,7 @@ class PreferencesSubstate extends MusicBeatSubstate
 		'Anti-Aliasing',
 		'Persistent Cached Data',
 		'Gore',
+		'Shaders',
 		'Improved Hold Renderer',
 		#if !html5
 		'Framerate', //Apparently 120FPS isn't correctly supported on Browser? Probably it has some V-Sync shit enabled by default, idk
@@ -639,6 +640,9 @@ class PreferencesSubstate extends MusicBeatSubstate
 
 					case 'Low Quality':
 						ClientPrefs.lowQuality = !ClientPrefs.lowQuality;
+
+					case 'Shaders':
+						ClientPrefs.shaders = !ClientPrefs.shaders;
 
 					case 'Anti-Aliasing':
 						ClientPrefs.globalAntialiasing = !ClientPrefs.globalAntialiasing;
