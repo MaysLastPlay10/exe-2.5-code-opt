@@ -3,8 +3,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				7,
-				12
+				4,
+				11
 			],
 			"anim": "singLEFTmiss",
 			"fps": 24,
@@ -15,7 +15,7 @@
 			"loop": false,
 			"offsets": [
 				7,
-				-76
+				-81
 			],
 			"anim": "singDOWNmiss",
 			"fps": 24,
@@ -36,8 +36,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-44,
-				2
+				-64,
+				9
 			],
 			"anim": "singRIGHTmiss",
 			"fps": 24,
@@ -146,7 +146,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-5,
+				-10,
 				0
 			],
 			"anim": "idle",
@@ -157,23 +157,34 @@
 		{
 			"loop": false,
 			"offsets": [
-				7,
-				5
+				12,
+				-82
 			],
-			"anim": "singLEFT",
+			"anim": "singDOWN",
 			"fps": 24,
-			"name": "BF NOTE LEFT instance 1",
+			"name": "BF NOTE DOWN instance",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				16,
-				-82
+				3,
+				9
 			],
-			"anim": "singDOWN",
+			"anim": "singLEFT",
 			"fps": 24,
-			"name": "BF NOTE DOWN instance 1",
+			"name": "BF NOTE LEFT instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-58,
+				9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT instance",
 			"indices": []
 		},
 		{
@@ -184,18 +195,7 @@
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "BF NOTE UP instance 1",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-48,
-				9
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "BF NOTE RIGHT instance 1",
+			"name": "BF NOTE UP instance",
 			"indices": []
 		}
 	],
@@ -203,7 +203,7 @@
 	"image": "characters/Super_BoyFriend_Assets",
 	"position": [
 		0,
-		300
+		310
 	],
 	"healthicon": "bf",
 	"flip_x": true,
@@ -217,5 +217,5 @@
 		0
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 2
 }
