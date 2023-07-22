@@ -1,164 +1,119 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="Fleetway Super Sonic.png">
-	<!-- Created with Adobe Animate version 21.0.6.41649 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="Fleetway Down0000" x="0" y="0" width="569" height="714" frameX="-60" frameY="-27" frameWidth="653" frameHeight="745"/>
-	<SubTexture name="Fleetway Down0001" x="0" y="0" width="569" height="714" frameX="-60" frameY="-27" frameWidth="653" frameHeight="745"/>
-	<SubTexture name="Fleetway Down0002" x="569" y="0" width="628" height="736" frameX="-25" frameY="0" frameWidth="653" frameHeight="745"/>
-	<SubTexture name="Fleetway Down0003" x="569" y="0" width="628" height="736" frameX="-25" frameY="0" frameWidth="653" frameHeight="745"/>
-	<SubTexture name="Fleetway Down0004" x="1197" y="0" width="646" height="744" frameX="-7" frameY="-1" frameWidth="653" frameHeight="745"/>
-	<SubTexture name="Fleetway Down0005" x="1197" y="0" width="646" height="744" frameX="-7" frameY="-1" frameWidth="653" frameHeight="745"/>
-	<SubTexture name="Fleetway Down0006" x="1843" y="0" width="629" height="719" frameX="0" frameY="0" frameWidth="653" frameHeight="745"/>
-	<SubTexture name="Fleetway Down0007" x="1843" y="0" width="629" height="719" frameX="0" frameY="0" frameWidth="653" frameHeight="745"/>
-	<SubTexture name="Fleetway Down0008" x="1197" y="0" width="646" height="744" frameX="-7" frameY="-1" frameWidth="653" frameHeight="745"/>
-	<SubTexture name="Fleetway Down0009" x="1197" y="0" width="646" height="744" frameX="-7" frameY="-1" frameWidth="653" frameHeight="745"/>
-	<SubTexture name="Fleetway Down0010" x="1843" y="0" width="629" height="719" frameX="0" frameY="0" frameWidth="653" frameHeight="745"/>
-	<SubTexture name="Fleetway Down0011" x="1843" y="0" width="629" height="719" frameX="0" frameY="0" frameWidth="653" frameHeight="745"/>
-	<SubTexture name="Fleetway Down0012" x="1197" y="0" width="646" height="744" frameX="-7" frameY="-1" frameWidth="653" frameHeight="745"/>
-	<SubTexture name="Fleetway Down0013" x="1197" y="0" width="646" height="744" frameX="-7" frameY="-1" frameWidth="653" frameHeight="745"/>
-	<SubTexture name="Fleetway Down0014" x="1843" y="0" width="629" height="719" frameX="0" frameY="0" frameWidth="653" frameHeight="745"/>
-	<SubTexture name="Fleetway HowFast0000" x="2472" y="0" width="520" height="788" frameX="-76" frameY="0" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0001" x="2992" y="0" width="510" height="771" frameX="-77" frameY="-10" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0002" x="3502" y="0" width="533" height="768" frameX="-97" frameY="-45" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0003" x="4035" y="0" width="520" height="788" frameX="-76" frameY="0" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0004" x="4555" y="0" width="510" height="783" frameX="-77" frameY="-10" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0005" x="5065" y="0" width="533" height="786" frameX="-97" frameY="-45" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0006" x="5598" y="0" width="520" height="812" frameX="-76" frameY="0" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0007" x="6118" y="0" width="510" height="789" frameX="-77" frameY="-10" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0008" x="6628" y="0" width="533" height="768" frameX="-97" frameY="-45" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0009" x="7161" y="0" width="520" height="805" frameX="-76" frameY="0" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0010" x="7681" y="0" width="510" height="789" frameX="-77" frameY="-10" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0011" x="0" y="812" width="533" height="768" frameX="-97" frameY="-45" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0012" x="533" y="812" width="520" height="805" frameX="-76" frameY="0" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0013" x="1053" y="812" width="510" height="789" frameX="-77" frameY="-10" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0014" x="1563" y="812" width="533" height="768" frameX="-97" frameY="-45" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0015" x="2096" y="812" width="520" height="805" frameX="-76" frameY="0" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0016" x="2616" y="812" width="510" height="789" frameX="-77" frameY="-10" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0017" x="3126" y="812" width="533" height="768" frameX="-97" frameY="-45" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0018" x="3659" y="812" width="520" height="805" frameX="-76" frameY="0" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0019" x="4179" y="812" width="510" height="789" frameX="-77" frameY="-10" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0020" x="4689" y="812" width="533" height="768" frameX="-97" frameY="-45" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0021" x="5222" y="812" width="520" height="805" frameX="-76" frameY="0" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0022" x="5742" y="812" width="640" height="661" frameX="0" frameY="-75" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0023" x="6382" y="812" width="633" height="677" frameX="0" frameY="-67" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0024" x="7015" y="812" width="573" height="685" frameX="-21" frameY="-76" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0025" x="0" y="1617" width="616" height="702" frameX="-20" frameY="-60" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0026" x="616" y="1617" width="589" height="724" frameX="-18" frameY="-60" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0027" x="1205" y="1617" width="628" height="764" frameX="-14" frameY="-42" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0028" x="1833" y="1617" width="548" height="688" frameX="-37" frameY="-72" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0029" x="2381" y="1617" width="605" height="680" frameX="-35" frameY="-72" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0030" x="2986" y="1617" width="582" height="729" frameX="-30" frameY="-55" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0031" x="3568" y="1617" width="548" height="688" frameX="-37" frameY="-72" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0032" x="4116" y="1617" width="605" height="680" frameX="-35" frameY="-72" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0033" x="4721" y="1617" width="582" height="729" frameX="-30" frameY="-55" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0034" x="5303" y="1617" width="548" height="688" frameX="-37" frameY="-72" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0035" x="5851" y="1617" width="605" height="680" frameX="-35" frameY="-72" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0036" x="6456" y="1617" width="582" height="729" frameX="-30" frameY="-55" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0037" x="7038" y="1617" width="548" height="688" frameX="-37" frameY="-72" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0038" x="7586" y="1617" width="605" height="680" frameX="-35" frameY="-72" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0039" x="0" y="2381" width="582" height="729" frameX="-30" frameY="-55" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0040" x="582" y="2381" width="548" height="688" frameX="-37" frameY="-72" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0041" x="1130" y="2381" width="605" height="680" frameX="-35" frameY="-72" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0042" x="1735" y="2381" width="582" height="729" frameX="-30" frameY="-55" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0043" x="2317" y="2381" width="548" height="688" frameX="-37" frameY="-72" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0044" x="2865" y="2381" width="605" height="680" frameX="-35" frameY="-72" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0045" x="3470" y="2381" width="582" height="729" frameX="-30" frameY="-55" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0046" x="4052" y="2381" width="548" height="688" frameX="-37" frameY="-72" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0047" x="4600" y="2381" width="605" height="680" frameX="-35" frameY="-72" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0048" x="5205" y="2381" width="582" height="729" frameX="-30" frameY="-55" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0049" x="5787" y="2381" width="570" height="704" frameX="-41" frameY="-68" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0050" x="6357" y="2381" width="596" height="726" frameX="-50" frameY="-75" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0051" x="6953" y="2381" width="652" height="711" frameX="-81" frameY="-88" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0052" x="0" y="3110" width="646" height="766" frameX="-91" frameY="-67" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0053" x="646" y="3110" width="688" height="792" frameX="-30" frameY="-25" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0054" x="1334" y="3110" width="652" height="711" frameX="-81" frameY="-88" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0055" x="1986" y="3110" width="646" height="766" frameX="-91" frameY="-67" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0056" x="2632" y="3110" width="688" height="792" frameX="-30" frameY="-25" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0057" x="3320" y="3110" width="652" height="711" frameX="-81" frameY="-88" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0058" x="3972" y="3110" width="646" height="766" frameX="-91" frameY="-67" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0059" x="4618" y="3110" width="688" height="792" frameX="-30" frameY="-25" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0060" x="5306" y="3110" width="652" height="711" frameX="-81" frameY="-88" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0061" x="5958" y="3110" width="646" height="766" frameX="-91" frameY="-67" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0062" x="6604" y="3110" width="688" height="792" frameX="-30" frameY="-25" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0063" x="7292" y="3110" width="652" height="711" frameX="-81" frameY="-88" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0064" x="0" y="3902" width="646" height="766" frameX="-91" frameY="-67" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0065" x="6604" y="3110" width="688" height="792" frameX="-30" frameY="-25" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0066" x="646" y="3902" width="652" height="711" frameX="-81" frameY="-88" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0067" x="1298" y="3902" width="646" height="766" frameX="-91" frameY="-67" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0068" x="1944" y="3902" width="688" height="792" frameX="-30" frameY="-25" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0069" x="2632" y="3902" width="652" height="711" frameX="-81" frameY="-88" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0070" x="3284" y="3902" width="646" height="766" frameX="-91" frameY="-67" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0071" x="3930" y="3902" width="688" height="792" frameX="-30" frameY="-25" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0072" x="4618" y="3902" width="652" height="711" frameX="-81" frameY="-88" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0073" x="5270" y="3902" width="646" height="766" frameX="-91" frameY="-67" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0074" x="5916" y="3902" width="688" height="792" frameX="-30" frameY="-25" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0075" x="6604" y="3902" width="652" height="711" frameX="-81" frameY="-88" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0076" x="7256" y="3902" width="646" height="766" frameX="-91" frameY="-67" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0077" x="0" y="4694" width="688" height="792" frameX="-30" frameY="-25" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0078" x="688" y="4694" width="632" height="711" frameX="-99" frameY="-88" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0079" x="1320" y="4694" width="600" height="766" frameX="-86" frameY="-67" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0080" x="1920" y="4694" width="588" height="792" frameX="-97" frameY="-25" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0081" x="2508" y="4694" width="632" height="711" frameX="-99" frameY="-88" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0082" x="3140" y="4694" width="600" height="766" frameX="-86" frameY="-67" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0083" x="3740" y="4694" width="588" height="792" frameX="-97" frameY="-25" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0084" x="2508" y="4694" width="632" height="711" frameX="-99" frameY="-88" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0085" x="3140" y="4694" width="600" height="766" frameX="-86" frameY="-67" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0086" x="3740" y="4694" width="588" height="792" frameX="-97" frameY="-25" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0087" x="2508" y="4694" width="632" height="711" frameX="-99" frameY="-88" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0088" x="3140" y="4694" width="600" height="766" frameX="-86" frameY="-67" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0089" x="3740" y="4694" width="588" height="792" frameX="-97" frameY="-25" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0090" x="2508" y="4694" width="632" height="711" frameX="-99" frameY="-88" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway HowFast0091" x="3140" y="4694" width="600" height="766" frameX="-86" frameY="-67" frameWidth="737" frameHeight="833"/>
-	<SubTexture name="Fleetway Idle0000" x="4328" y="4694" width="601" height="841" frameX="-31" frameY="0" frameWidth="662" frameHeight="841"/>
-	<SubTexture name="Fleetway Idle0001" x="4929" y="4694" width="607" height="722" frameX="-53" frameY="-70" frameWidth="662" frameHeight="841"/>
-	<SubTexture name="Fleetway Idle0002" x="5536" y="4694" width="662" height="800" frameX="0" frameY="-32" frameWidth="662" frameHeight="841"/>
-	<SubTexture name="Fleetway Idle0003" x="6198" y="4694" width="603" height="841" frameX="-29" frameY="0" frameWidth="662" frameHeight="841"/>
-	<SubTexture name="Fleetway Idle0004" x="6801" y="4694" width="607" height="722" frameX="-53" frameY="-70" frameWidth="662" frameHeight="841"/>
-	<SubTexture name="Fleetway Idle0005" x="7408" y="4694" width="662" height="800" frameX="0" frameY="-32" frameWidth="662" frameHeight="841"/>
-	<SubTexture name="Fleetway Idle0006" x="0" y="5535" width="603" height="841" frameX="-29" frameY="0" frameWidth="662" frameHeight="841"/>
-	<SubTexture name="Fleetway Idle0007" x="603" y="5535" width="607" height="722" frameX="-53" frameY="-70" frameWidth="662" frameHeight="841"/>
-	<SubTexture name="Fleetway Idle0008" x="1210" y="5535" width="662" height="824" frameX="0" frameY="-8" frameWidth="662" frameHeight="841"/>
-	<SubTexture name="Fleetway Idle0009" x="1872" y="5535" width="603" height="841" frameX="-29" frameY="0" frameWidth="662" frameHeight="841"/>
-	<SubTexture name="Fleetway Idle0010" x="2475" y="5535" width="607" height="753" frameX="-53" frameY="-38" frameWidth="662" frameHeight="841"/>
-	<SubTexture name="Fleetway Left0000" x="3082" y="5535" width="746" height="691" frameX="0" frameY="-13" frameWidth="798" frameHeight="704"/>
-	<SubTexture name="Fleetway Left0001" x="3082" y="5535" width="746" height="691" frameX="0" frameY="-13" frameWidth="798" frameHeight="704"/>
-	<SubTexture name="Fleetway Left0002" x="3828" y="5535" width="709" height="654" frameX="-76" frameY="-32" frameWidth="798" frameHeight="704"/>
-	<SubTexture name="Fleetway Left0003" x="3828" y="5535" width="709" height="654" frameX="-76" frameY="-32" frameWidth="798" frameHeight="704"/>
-	<SubTexture name="Fleetway Left0004" x="4537" y="5535" width="769" height="680" frameX="-29" frameY="0" frameWidth="798" frameHeight="704"/>
-	<SubTexture name="Fleetway Left0005" x="4537" y="5535" width="769" height="680" frameX="-29" frameY="0" frameWidth="798" frameHeight="704"/>
-	<SubTexture name="Fleetway Left0006" x="5306" y="5535" width="744" height="690" frameX="-54" frameY="-12" frameWidth="798" frameHeight="704"/>
-	<SubTexture name="Fleetway Left0007" x="5306" y="5535" width="744" height="690" frameX="-54" frameY="-12" frameWidth="798" frameHeight="704"/>
-	<SubTexture name="Fleetway Left0008" x="4537" y="5535" width="769" height="680" frameX="-29" frameY="0" frameWidth="798" frameHeight="704"/>
-	<SubTexture name="Fleetway Left0009" x="4537" y="5535" width="769" height="680" frameX="-29" frameY="0" frameWidth="798" frameHeight="704"/>
-	<SubTexture name="Fleetway Left0010" x="5306" y="5535" width="744" height="690" frameX="-54" frameY="-12" frameWidth="798" frameHeight="704"/>
-	<SubTexture name="Fleetway Left0011" x="5306" y="5535" width="744" height="690" frameX="-54" frameY="-12" frameWidth="798" frameHeight="704"/>
-	<SubTexture name="Fleetway Left0012" x="4537" y="5535" width="769" height="680" frameX="-29" frameY="0" frameWidth="798" frameHeight="704"/>
-	<SubTexture name="Fleetway Left0013" x="4537" y="5535" width="769" height="680" frameX="-29" frameY="0" frameWidth="798" frameHeight="704"/>
-	<SubTexture name="Fleetway Left0014" x="6050" y="5535" width="744" height="690" frameX="-54" frameY="-12" frameWidth="798" frameHeight="704"/>
-	<SubTexture name="Fleetway Right0000" x="6794" y="5535" width="714" height="663" frameX="0" frameY="-14" frameWidth="765" frameHeight="736"/>
-	<SubTexture name="Fleetway Right0001" x="6794" y="5535" width="714" height="663" frameX="0" frameY="-14" frameWidth="765" frameHeight="736"/>
-	<SubTexture name="Fleetway Right0002" x="7508" y="5535" width="679" height="637" frameX="-30" frameY="-16" frameWidth="765" frameHeight="736"/>
-	<SubTexture name="Fleetway Right0003" x="7508" y="5535" width="679" height="637" frameX="-30" frameY="-16" frameWidth="765" frameHeight="736"/>
-	<SubTexture name="Fleetway Right0004" x="0" y="6376" width="687" height="675" frameX="-56" frameY="0" frameWidth="765" frameHeight="736"/>
-	<SubTexture name="Fleetway Right0005" x="0" y="6376" width="687" height="675" frameX="-56" frameY="0" frameWidth="765" frameHeight="736"/>
-	<SubTexture name="Fleetway Right0006" x="687" y="6376" width="702" height="736" frameX="-63" frameY="0" frameWidth="765" frameHeight="736"/>
-	<SubTexture name="Fleetway Right0007" x="687" y="6376" width="702" height="736" frameX="-63" frameY="0" frameWidth="765" frameHeight="736"/>
-	<SubTexture name="Fleetway Right0008" x="0" y="6376" width="687" height="675" frameX="-56" frameY="0" frameWidth="765" frameHeight="736"/>
-	<SubTexture name="Fleetway Right0009" x="0" y="6376" width="687" height="675" frameX="-56" frameY="0" frameWidth="765" frameHeight="736"/>
-	<SubTexture name="Fleetway Right0010" x="687" y="6376" width="702" height="736" frameX="-63" frameY="0" frameWidth="765" frameHeight="736"/>
-	<SubTexture name="Fleetway Right0011" x="687" y="6376" width="702" height="736" frameX="-63" frameY="0" frameWidth="765" frameHeight="736"/>
-	<SubTexture name="Fleetway Right0012" x="0" y="6376" width="687" height="675" frameX="-56" frameY="0" frameWidth="765" frameHeight="736"/>
-	<SubTexture name="Fleetway Right0013" x="0" y="6376" width="687" height="675" frameX="-56" frameY="0" frameWidth="765" frameHeight="736"/>
-	<SubTexture name="Fleetway Right0014" x="687" y="6376" width="702" height="736" frameX="-63" frameY="0" frameWidth="765" frameHeight="736"/>
-	<SubTexture name="Fleetway Up0000" x="1389" y="6376" width="550" height="799" frameX="0" frameY="-7" frameWidth="590" frameHeight="825"/>
-	<SubTexture name="Fleetway Up0001" x="1389" y="6376" width="550" height="799" frameX="0" frameY="-7" frameWidth="590" frameHeight="825"/>
-	<SubTexture name="Fleetway Up0002" x="1939" y="6376" width="512" height="809" frameX="-30" frameY="-16" frameWidth="590" frameHeight="825"/>
-	<SubTexture name="Fleetway Up0003" x="1939" y="6376" width="512" height="809" frameX="-30" frameY="-16" frameWidth="590" frameHeight="825"/>
-	<SubTexture name="Fleetway Up0004" x="2451" y="6376" width="572" height="825" frameX="-18" frameY="0" frameWidth="590" frameHeight="825"/>
-	<SubTexture name="Fleetway Up0005" x="2451" y="6376" width="572" height="825" frameX="-18" frameY="0" frameWidth="590" frameHeight="825"/>
-	<SubTexture name="Fleetway Up0006" x="3023" y="6376" width="512" height="809" frameX="-30" frameY="-16" frameWidth="590" frameHeight="825"/>
-	<SubTexture name="Fleetway Up0007" x="3023" y="6376" width="512" height="809" frameX="-30" frameY="-16" frameWidth="590" frameHeight="825"/>
-	<SubTexture name="Fleetway Up0008" x="2451" y="6376" width="572" height="825" frameX="-18" frameY="0" frameWidth="590" frameHeight="825"/>
-	<SubTexture name="Fleetway Up0009" x="2451" y="6376" width="572" height="825" frameX="-18" frameY="0" frameWidth="590" frameHeight="825"/>
-	<SubTexture name="Fleetway Up0010" x="3023" y="6376" width="512" height="809" frameX="-30" frameY="-16" frameWidth="590" frameHeight="825"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Fleetway.png" width="3736" height="3354">
+  <SubTexture name="Fleetway HowFast0010" x="0" y="0" width="394.5" height="254.5" rotated="true"  frameX="-38.5" frameY="-5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0001" x="394.5" y="0" width="385.5" height="255" rotated="true"  frameX="-38.5" frameY="-5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0004" x="780" y="0" width="391.5" height="255" rotated="true"  frameX="-38.5" frameY="-5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0007" x="1171.5" y="0" width="394.5" height="255" rotated="true"  frameX="-38.5" frameY="-5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0013" x="1566" y="0" width="394.5" height="255" rotated="true"  frameX="-38.5" frameY="-5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0016" x="1960.5" y="0" width="394.5" height="255" rotated="true"  frameX="-38.5" frameY="-5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0019" x="2355" y="0" width="394.5" height="255" rotated="true"  frameX="-38.5" frameY="-5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway Up0001" x="2749.5" y="0" width="404.5" height="256" rotated="true"  frameX="-15" frameY="-8" frameWidth="295" frameHeight="412.5"/>
+  <SubTexture name="Fleetway Up0003" x="3154" y="0" width="404.5" height="256" rotated="true"  frameX="-15" frameY="-8" frameWidth="295" frameHeight="412.5"/>
+  <SubTexture name="Fleetway HowFast0000" x="0" y="254.5" width="394" height="260" rotated="true"  frameX="-38" frameY="-0" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0003" x="394" y="255" width="394" height="260" rotated="true"  frameX="-38" frameY="-0" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0006" x="788" y="255" width="406" height="260" rotated="true"  frameX="-38" frameY="-0" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0009" x="1194" y="255" width="402.5" height="260" rotated="true"  frameX="-38" frameY="-0" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0012" x="1596.5" y="255" width="402.5" height="260" rotated="true"  frameX="-38" frameY="-0" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0015" x="1999" y="255" width="402.5" height="260" rotated="true"  frameX="-38" frameY="-0" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0018" x="2401.5" y="256" width="402.5" height="260" rotated="true"  frameX="-38" frameY="-0" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0021" x="2804" y="256" width="402.5" height="260" rotated="true"  frameX="-38" frameY="-0" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0002" x="3206.5" y="256" width="384" height="266.5" rotated="true"  frameX="-48.5" frameY="-22.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0005" x="0" y="514.5" width="393" height="266.5" rotated="true"  frameX="-48.5" frameY="-22.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0008" x="393" y="515" width="384" height="266.5" rotated="true"  frameX="-48.5" frameY="-22.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0011" x="777" y="515" width="384" height="266.5" rotated="true"  frameX="-48.5" frameY="-22.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0014" x="1161" y="515" width="384" height="266.5" rotated="true"  frameX="-48.5" frameY="-22.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0017" x="1545" y="515" width="384" height="266.5" rotated="true"  frameX="-48.5" frameY="-22.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0020" x="1929" y="515" width="384" height="266.5" rotated="true"  frameX="-48.5" frameY="-22.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0028" x="2313" y="516" width="344" height="274" rotated="true"  frameX="-18.5" frameY="-36" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0031" x="2657" y="516" width="344" height="274" rotated="true"  frameX="-18.5" frameY="-36" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0034" x="3001" y="522.5" width="344" height="274" rotated="true"  frameX="-18.5" frameY="-36" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0037" x="3345" y="522.5" width="344" height="274" rotated="true"  frameX="-18.5" frameY="-36" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0040" x="0" y="781" width="344" height="274" rotated="true"  frameX="-18.5" frameY="-36" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0043" x="344" y="781.5" width="344" height="274" rotated="true"  frameX="-18.5" frameY="-36" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0046" x="688" y="781.5" width="344" height="274" rotated="true"  frameX="-18.5" frameY="-36" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway Up0000" x="1032" y="781.5" width="399.5" height="275" rotated="true"  frameX="-0" frameY="-3.5" frameWidth="295" frameHeight="412.5"/>
+  <SubTexture name="Fleetway Down0000" x="1431.5" y="781.5" width="357" height="284.5" rotated="true"  frameX="-30" frameY="-13.5" frameWidth="326.5" frameHeight="372.5"/>
+  <SubTexture name="Fleetway HowFast0049" x="1788.5" y="781.5" width="352" height="285" rotated="true"  frameX="-20.5" frameY="-34" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway Up0002" x="2140.5" y="790" width="412.5" height="286" rotated="true"  frameX="-9" frameY="-0" frameWidth="295" frameHeight="412.5"/>
+  <SubTexture name="Fleetway HowFast0024" x="2553" y="790" width="342.5" height="286.5" rotated="true"  frameX="-10.5" frameY="-38" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0030" x="2895.5" y="796.5" width="364" height="291" rotated="true"  frameX="-15" frameY="-27.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0033" x="3259.5" y="796.5" width="364" height="291" rotated="true"  frameX="-15" frameY="-27.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0036" x="0" y="1055.5" width="364" height="291" rotated="true"  frameX="-15" frameY="-27.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0039" x="364" y="1055.5" width="364.5" height="291" rotated="true"  frameX="-15" frameY="-27.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0042" x="728.5" y="1056.5" width="364.5" height="291" rotated="true"  frameX="-15" frameY="-27.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0045" x="1093" y="1066" width="364" height="291" rotated="true"  frameX="-15" frameY="-27.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0048" x="1457" y="1066.5" width="364.5" height="291" rotated="true"  frameX="-15" frameY="-27.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0080" x="1821.5" y="1076" width="396" height="294" rotated="true"  frameX="-48.5" frameY="-12.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0083" x="2217.5" y="1076.5" width="396" height="294" rotated="true"  frameX="-48.5" frameY="-12.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0026" x="2613.5" y="1087.5" width="362" height="294.5" rotated="true"  frameX="-9" frameY="-30" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0050" x="2975.5" y="1087.5" width="363" height="298" rotated="true"  frameX="-25" frameY="-37.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0079" x="3338.5" y="1087.5" width="383" height="300" rotated="true"  frameX="-43" frameY="-33.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0082" x="0" y="1346.5" width="383" height="300" rotated="true"  frameX="-43" frameY="-33.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway Idle0000" x="383" y="1347.5" width="420.5" height="300.5" rotated="true"  frameX="-15.5" frameY="-0" frameWidth="331" frameHeight="420.5"/>
+  <SubTexture name="Fleetway Idle0003" x="803.5" y="1357" width="420.5" height="301.5" rotated="true"  frameX="-14.5" frameY="-0" frameWidth="331" frameHeight="420.5"/>
+  <SubTexture name="Fleetway HowFast0029" x="1224" y="1357.5" width="340" height="302.5" rotated="true"  frameX="-17.5" frameY="-36" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0032" x="1564" y="1370" width="340" height="302.5" rotated="true"  frameX="-17.5" frameY="-36" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0035" x="1904" y="1370.5" width="340" height="302.5" rotated="true"  frameX="-17.5" frameY="-36" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0038" x="2244" y="1370.5" width="340" height="302.5" rotated="true"  frameX="-17.5" frameY="-36" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0041" x="2584" y="1382" width="340" height="302.5" rotated="true"  frameX="-17.5" frameY="-36" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0044" x="2924" y="1385.5" width="340" height="302.5" rotated="true"  frameX="-17.5" frameY="-36" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0047" x="3264" y="1387.5" width="340" height="302.5" rotated="true"  frameX="-17.5" frameY="-36" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway Idle0002" x="0" y="1646.5" width="360.5" height="303.5" rotated="true"  frameX="-26.5" frameY="-35" frameWidth="331" frameHeight="420.5"/>
+  <SubTexture name="Fleetway HowFast0025" x="360.5" y="1648" width="350.5" height="308" rotated="true"  frameX="-10" frameY="-30" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway Down0001" x="711" y="1658.5" width="367" height="314" rotated="true"  frameX="-12.5" frameY="-0.5" frameWidth="326.5" frameHeight="372.5"/>
+  <SubTexture name="Fleetway HowFast0027" x="1078" y="1660" width="382" height="314" rotated="true"  frameX="-7" frameY="-21" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway Down0003" x="1460" y="1672.5" width="359.5" height="314.5" rotated="true"  frameX="-0" frameY="-0" frameWidth="326.5" frameHeight="372.5"/>
+  <SubTexture name="Fleetway HowFast0078" x="1819.5" y="1673" width="355.5" height="316" rotated="true"  frameX="-49.5" frameY="-44" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0081" x="2175" y="1673" width="355.5" height="316" rotated="true"  frameX="-49.5" frameY="-44" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0023" x="2530.5" y="1684.5" width="338" height="316.5" rotated="true"  frameX="-0" frameY="-33.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway Right0001" x="2868.5" y="1688"  width="339" height="318.5" frameX="-15.5" frameY="-8" frameWidth="382.5" frameHeight="368"/>
+  <SubTexture name="Fleetway HowFast0022" x="3207.5" y="1690" width="330.5" height="320" rotated="true"  frameX="-0" frameY="-37.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0051" x="0" y="1950" width="355.5" height="326" rotated="true"  frameX="-40.5" frameY="-44" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0054" x="355.5" y="1956" width="355.5" height="326" rotated="true"  frameX="-40.5" frameY="-44" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway Down0002" x="711" y="1974" width="371.5" height="323" rotated="true"  frameX="-3.5" frameY="-1" frameWidth="326.5" frameHeight="372.5"/>
+  <SubTexture name="Fleetway HowFast0057" x="1082.5" y="1974" width="355.5" height="326" rotated="true"  frameX="-40.5" frameY="-44" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0052" x="1438" y="1989" width="383" height="323" rotated="true"  frameX="-45.5" frameY="-33.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0055" x="1821" y="1989" width="383" height="323" rotated="true"  frameX="-45.5" frameY="-33.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0058" x="2204" y="2001" width="383" height="323" rotated="true"  frameX="-45.5" frameY="-33.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0061" x="2587" y="2006.5" width="383" height="323" rotated="true"  frameX="-45.5" frameY="-33.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0064" x="2970" y="2010" width="383" height="323" rotated="true"  frameX="-45.5" frameY="-33.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0067" x="3353" y="2010" width="383" height="323" rotated="true"  frameX="-45.5" frameY="-33.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0060" x="0" y="2276" width="355.5" height="326" rotated="true"  frameX="-40.5" frameY="-44" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0063" x="355.5" y="2282" width="355.5" height="326" rotated="true"  frameX="-40.5" frameY="-44" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0066" x="711" y="2297" width="355.5" height="326" rotated="true"  frameX="-40.5" frameY="-44" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0069" x="1066.5" y="2300" width="355.5" height="326" rotated="true"  frameX="-40.5" frameY="-44" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0070" x="1422" y="2312" width="383" height="323" rotated="true"  frameX="-45.5" frameY="-33.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0073" x="1805" y="2312" width="383" height="323" rotated="true"  frameX="-45.5" frameY="-33.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0076" x="2188" y="2324" width="383" height="323" rotated="true"  frameX="-45.5" frameY="-33.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0072" x="2571" y="2329.5" width="355.5" height="326" rotated="true"  frameX="-40.5" frameY="-44" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0075" x="2926.5" y="2333" width="355.5" height="326" rotated="true"  frameX="-40.5" frameY="-44" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway Left0001" x="3282" y="2333"  width="354.5" height="326" frameX="-38" frameY="-16" frameWidth="399" frameHeight="352"/>
+  <SubTexture name="Fleetway Idle0001" x="0" y="2608" width="400" height="331" rotated="true"  frameX="-0" frameY="-16" frameWidth="331" frameHeight="420.5"/>
+  <SubTexture name="Fleetway Idle0004" x="400" y="2623" width="412" height="331" rotated="true"  frameX="-0" frameY="-4" frameWidth="331" frameHeight="420.5"/>
+  <SubTexture name="Fleetway Right0000" x="812" y="2626"  width="357" height="331" frameX="-0" frameY="-7" frameWidth="382.5" frameHeight="368"/>
+  <SubTexture name="Fleetway Right0002" x="1169" y="2635"  width="343.5" height="337.5" frameX="-28" frameY="-0" frameWidth="382.5" frameHeight="368"/>
+  <SubTexture name="Fleetway Left0002" x="1512.5" y="2635"  width="384" height="338.5" frameX="-14.5" frameY="-0.5" frameWidth="399" frameHeight="352"/>
+  <SubTexture name="Fleetway HowFast0053" x="1896.5" y="2647" width="396" height="344" rotated="true"  frameX="-15" frameY="-12.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0056" x="2292.5" y="2655.5" width="396" height="344" rotated="true"  frameX="-15" frameY="-12.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0059" x="2688.5" y="2659" width="396" height="344" rotated="true"  frameX="-15" frameY="-12.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0062" x="3084.5" y="2659" width="396" height="344" rotated="true"  frameX="-15" frameY="-12.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0068" x="0" y="2939" width="396" height="344" rotated="true"  frameX="-15" frameY="-12.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0071" x="396" y="2954" width="396" height="344" rotated="true"  frameX="-15" frameY="-12.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway Left0003" x="792" y="2957"  width="371.5" height="344.5" frameX="-27" frameY="-6.5" frameWidth="399" frameHeight="352"/>
+  <SubTexture name="Fleetway HowFast0074" x="1163.5" y="2973.5" width="396" height="344" rotated="true"  frameX="-15" frameY="-12.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0077" x="1559.5" y="2991" width="396" height="344" rotated="true"  frameX="-15" frameY="-12.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway Left0000" x="1955.5" y="2999.5"  width="373" height="345" frameX="-0" frameY="-6.5" frameWidth="399" frameHeight="352"/>
+  <SubTexture name="Fleetway Right0003" x="2328.5" y="3003" width="368" height="351" rotated="true"  frameX="-31.5" frameY="-0" frameWidth="382.5" frameHeight="368"/>
+  <SubTexture name="Fleetway HowFast0065" x="3084.5" y="2659" width="396" height="344" rotated="true"  frameX="-15" frameY="-12.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0084" x="2175" y="1673" width="355.5" height="316" rotated="true"  frameX="-49.5" frameY="-44" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0087" x="2175" y="1673" width="355.5" height="316" rotated="true"  frameX="-49.5" frameY="-44" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0090" x="2175" y="1673" width="355.5" height="316" rotated="true"  frameX="-49.5" frameY="-44" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0085" x="0" y="1346.5" width="383" height="300" rotated="true"  frameX="-43" frameY="-33.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0088" x="0" y="1346.5" width="383" height="300" rotated="true"  frameX="-43" frameY="-33.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0091" x="0" y="1346.5" width="383" height="300" rotated="true"  frameX="-43" frameY="-33.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0086" x="2217.5" y="1076.5" width="396" height="294" rotated="true"  frameX="-48.5" frameY="-12.5" frameWidth="368.5" frameHeight="416.5"/>
+  <SubTexture name="Fleetway HowFast0089" x="2217.5" y="1076.5" width="396" height="294" rotated="true"  frameX="-48.5" frameY="-12.5" frameWidth="368.5" frameHeight="416.5"/>
 </TextureAtlas>
