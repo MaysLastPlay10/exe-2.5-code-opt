@@ -3,7 +3,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				294,
+				292,
 				10
 			],
 			"anim": "idle",
@@ -196,8 +196,8 @@
 	"no_antialiasing": false,
 	"image": "characters/eggman_soul",
 	"position": [
-		60,
-		110
+		210,
+		230
 	],
 	"healthicon": "dick",
 	"flip_x": false,
@@ -207,9 +207,9 @@
 		75
 	],
 	"camera_position": [
-		-290,
-		40
+		-440,
+		-80
 	],
 	"sing_duration": 4,
-	"scale": 1.05
+	"scale": 2.1
 }
