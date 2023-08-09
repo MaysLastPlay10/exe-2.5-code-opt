@@ -1,14 +1,13 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				-178,
+				-187,
 				-197
 			],
-			"anim": "laugh",
+			"loop": false,
 			"fps": 24,
-			"name": "laugh_Instance",
+			"anim": "laugh",
 			"indices": [
 				1,
 				2,
@@ -16,95 +15,96 @@
 				4,
 				5,
 				6
-			]
-		},
-		{
-			"offsets": [
-				162,
-				-140
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "scream",
-			"indices": [],
-			"name": "scream"
+			"name": "laugh_Instance"
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-172,
+				152,
+				-141
+			],
+			"anim": "scream",
+			"fps": 24,
+			"name": "scream",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-186,
 				-197
 			],
-			"anim": "singDOWN-alt",
+			"loop": false,
 			"fps": 24,
-			"name": "laugh",
-			"indices": []
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "laugh"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-6,
-				-128
+				-16,
+				-132
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 38,
-			"name": "mad_left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mad_left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-206,
 				80
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 42,
-			"name": "mad_up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "mad_up"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-161,
+				-175,
 				-183
 			],
-			"anim": "singDOWN",
-			"fps": 40,
-			"name": "mad_down",
-			"indices": []
-		},
-		{
 			"loop": false,
-			"offsets": [
-				-254,
-				-153
-			],
-			"anim": "singRIGHT",
-			"fps": 35,
-			"name": "mad_right",
-			"indices": []
+			"fps": 40,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mad_down"
 		},
 		{
-			"loop": true,
 			"offsets": [
-				-214,
+				-264,
+				-154
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mad_right"
+		},
+		{
+			"offsets": [
+				-224,
 				-93
 			],
-			"anim": "idle",
+			"loop": true,
 			"fps": 26,
-			"name": "mad_idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "mad_idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-37,
-				-147
+				-47,
+				-150
 			],
-			"anim": "die",
+			"loop": false,
 			"fps": 24,
-			"name": "just_die",
-			"indices": []
+			"anim": "die",
+			"indices": [],
+			"name": "just_die"
 		}
 	],
 	"no_antialiasing": false,
