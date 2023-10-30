@@ -3157,7 +3157,7 @@ class PlayState extends MusicBeatState
 
 				if (OpenFlAssets.exists(Paths.json(curSong.toLowerCase() + "/credits")))
 				{
-					timei = File.getContent((Paths.json(curSong.toLowerCase() + "/credits"))).split("TIME")[1];
+					timei = OpenFlAssets.getBytes((Paths.json(curSong.toLowerCase() + "/credits"))).split("TIME")[1];
 				}
 				else
 				{
