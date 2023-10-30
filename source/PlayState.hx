@@ -3126,10 +3126,10 @@ class PlayState extends MusicBeatState
 				var texti:String;
 				var size:String;
 
-				if (FileSystem.exists(Paths.json(curSong.toLowerCase() + "/credits")))
+				if (OpenFlAssets.exists(Paths.json(curSong.toLowerCase() + "/credits")))
 				{
-					texti = File.getContent((Paths.json(curSong.toLowerCase() + "/credits"))).split("TIME")[0];
-					size = File.getContent((Paths.json(curSong.toLowerCase() + "/credits"))).split("SIZE")[1];
+					texti = OpenFlAssets.getBytes((Paths.json(curSong.toLowerCase() + "/credits"))).split("TIME")[0];
+					size = OpenFlAssets.getBytes((Paths.json(curSong.toLowerCase() + "/credits"))).split("SIZE")[1];
 				}
 				else
 				{
@@ -3155,7 +3155,7 @@ class PlayState extends MusicBeatState
 			default:
 				var timei:String;
 
-				if (FileSystem.exists(Paths.json(curSong.toLowerCase() + "/credits")))
+				if (OpenFlAssets.exists(Paths.json(curSong.toLowerCase() + "/credits")))
 				{
 					timei = File.getContent((Paths.json(curSong.toLowerCase() + "/credits"))).split("TIME")[1];
 				}
