@@ -3128,8 +3128,8 @@ class PlayState extends MusicBeatState
 
 				if (OpenFlAssets.exists(Paths.json(curSong.toLowerCase() + "/credits")))
 				{
-					texti = OpenFlAssets.getBytes((Paths.json(curSong.toLowerCase() + "/credits"))).split("TIME")[0];
-					size = OpenFlAssets.getBytes((Paths.json(curSong.toLowerCase() + "/credits"))).split("SIZE")[1];
+					texti = OpenFlAssets.getTexr((Paths.json(curSong.toLowerCase() + "/credits"))).split("TIME")[0];
+					size = OpenFlAssets.getText((Paths.json(curSong.toLowerCase() + "/credits"))).split("SIZE")[1];
 				}
 				else
 				{
@@ -3157,7 +3157,7 @@ class PlayState extends MusicBeatState
 
 				if (OpenFlAssets.exists(Paths.json(curSong.toLowerCase() + "/credits")))
 				{
-					timei = OpenFlAssets.getBytes((Paths.json(curSong.toLowerCase() + "/credits"))).split("TIME")[1];
+					timei = OpenFlAssets.getText((Paths.json(curSong.toLowerCase() + "/credits"))).split("TIME")[1];
 				}
 				else
 				{
