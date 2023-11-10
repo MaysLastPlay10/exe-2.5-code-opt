@@ -301,8 +301,8 @@ class PlayState extends MusicBeatState
 	var startCircle:FlxSprite;
 	var startText:FlxSprite;
 	// - dad 2 things (namely needlemouse)
-	//public var dad2:Character;
-	//public var dad2Group:FlxSpriteGroup; // going to use this for needle/sarah (avery)
+	public var dad2:Character;
+	public var dad2Group:FlxSpriteGroup; // going to use this for needle/sarah (avery)
 	// - camera bullshit
 	var dadCamThing:Array<Int> = [0, 0];
 	var bfCamThing:Array<Int> = [0, 0];
@@ -1578,12 +1578,12 @@ class PlayState extends MusicBeatState
 		gf.scrollFactor.set(0.95, 0.95);
 		gfGroup.add(gf);
 
-		/*if (curSong.toLowerCase() == 'round-a-bout' && curStage == 'needle')
+		if (curSong.toLowerCase() == 'round-a-bout' && curStage == 'needle')
 		{
-			dad2 = new Character(0, 0, 'sarah');
+			dad2 = new Character(0, 0, 'Sarah');
 			startCharacterPos(dad2, true);
 			dad2Group.add(dad2);
-		}*/
+		}
 
 		dad = new Character(0, 0, SONG.player2);
 		startCharacterPos(dad, true);
@@ -1629,7 +1629,7 @@ class PlayState extends MusicBeatState
 				dad.y -= 50;
 			case 'needle':
 				add(needleFg);
-				//dad2.alpha = 0.1;
+				dad2.alpha = 0.1;
 
 				dad.x -= 120;
 				dad.y += 265;
@@ -1637,7 +1637,7 @@ class PlayState extends MusicBeatState
 				boyfriend.y += 280;
 				gf.x += 1000;
 				gf.y += 350;
-				/*dad2.x -= 150;
+				dad2.x -= 150;
 				dad2.y += 25;
 
 				flyTarg = dad2; // fucking smart genious and intellegent*/
@@ -4627,10 +4627,10 @@ class PlayState extends MusicBeatState
 							else if (curStage == 'needle')
 							{
 								dad.playAnim(animToPlay + altAnim, true);
-								//dad2.playAnim(animToPlay + altAnim, true);
+								dad2.playAnim(animToPlay + altAnim, true);
 
 								dad.holdTimer = 0;
-								//dad2.holdTimer = 0;
+								dad2.holdTimer = 0;
 							}
 							else
 							{
@@ -7162,7 +7162,7 @@ class PlayState extends MusicBeatState
 					FlxTween.tween(camHUD, {alpha: 1}, 0.5);
 			}
 		}
-		/*if (curStage == 'needle' && SONG.song.toLowerCase() == 'round-a-bout')
+		if (curStage == 'needle' && SONG.song.toLowerCase() == 'round-a-bout')
 		{
 			switch (curStep)
 			{
@@ -7187,7 +7187,7 @@ class PlayState extends MusicBeatState
 	  					oki = 0.0;
 					});
 			}
-		}*/
+		}
 		if (SONG.song.toLowerCase() == 'fight or flight')
 		{
 			switch (curStep)
