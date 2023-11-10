@@ -631,7 +631,7 @@ class PlayState extends MusicBeatState
 
 		boyfriendGroup = new FlxSpriteGroup(BF_X, BF_Y);
 		dadGroup = new FlxSpriteGroup(DAD_X, DAD_Y);
-		//dad2Group = new FlxSpriteGroup(DAD_X, DAD_Y); // should load right on top of dad? hopefully lmao (avery)
+		dad2Group = new FlxSpriteGroup(DAD_X, DAD_Y); // should load right on top of dad? hopefully lmao (avery)
 		gfGroup = new FlxSpriteGroup(GF_X, GF_Y);
 
 		switch (curStage)
@@ -1503,7 +1503,7 @@ class PlayState extends MusicBeatState
 		{
 			case 'needle':
 				add(gfGroup);
-				//add(dad2Group);
+				add(dad2Group);
 				add(dadGroup);
 				add(boyfriendGroup);
 			default:
@@ -1559,7 +1559,7 @@ class PlayState extends MusicBeatState
 
 		trace(boyfriendGroup);
 		trace(dadGroup);
-		//trace(dad2Group);
+		trace(dad2Group);
 		trace(gfGroup);
 
 		var gfVersion:String = SONG.player3;
