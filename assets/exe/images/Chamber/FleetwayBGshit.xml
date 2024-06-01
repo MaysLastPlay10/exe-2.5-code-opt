@@ -1,7 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="FleetwayBGshit.png">
-	<!-- Created with Adobe Animate version 21.0.6.41649 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="BGblue0000" x="0" y="0" width="5848" height="2913"/>
-	<SubTexture name="BGyellow0000" x="0" y="2913" width="5848" height="2913"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="FleetwayBGshit.png.png" width="5851" height="2914">
+  <SubTexture name="BGyellow0000" x="0" y="0"  width="5851.42857142272" height="2914.2857142827997" frameX="-0" frameY="-0" frameWidth="5851.42857142272" frameHeight="2914.2857142827997"/>
+  <SubTexture name="BGblue0000" x="0" y="0"  width="5851.42857142272" height="2914.2857142827997" frameX="-0" frameY="-0" frameWidth="5851.42857142272" frameHeight="2914.2857142827997"/>
 </TextureAtlas>

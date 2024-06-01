@@ -1,7 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="Wall.png">
-	<!-- Created with Adobe Animate version 21.0.6.41649 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="Wall Broken instance 10000" x="0" y="0" width="5680" height="2533"/>
-	<SubTexture name="Wall instance 10000" x="0" y="2533" width="5680" height="2534"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Wall.png" width="4095" height="1827">
+  <SubTexture name="Wall Broken instance 10000" x="0" y="0"  width="4095" height="1827" frameX="-0" frameY="-354" frameWidth="4096" frameHeight="2534"/>
+  <SubTexture name="Wall instance 10000" x="0" y="0"  width="4095" height="1827" frameX="-0" frameY="-354" frameWidth="4096" frameHeight="2534"/>
 </TextureAtlas>
